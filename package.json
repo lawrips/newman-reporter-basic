@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-basic",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a v basic reporter for newman",
   "keywords": [
     "postman",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "newman": "https://github.com/postmanlabs/newman.git#feature/v3"
+    "newman": "^3.0.1"
   },
   "devDependencies": {
     "should": "^9.0.0"
